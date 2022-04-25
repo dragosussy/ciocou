@@ -1,0 +1,12 @@
+E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\Domain\bin\Debug\net6.0\Domain.deps.json
+E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\Domain\bin\Debug\net6.0\Domain.dll
+E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\Domain\bin\Debug\net6.0\ref\Domain.dll
+E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\Domain\bin\Debug\net6.0\Domain.pdb
+E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\Domain\obj\Debug\net6.0\Domain.dll
+E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\Domain\obj\Debug\net6.0\ref\Domain.dll
+E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\Domain\obj\Debug\net6.0\Domain.pdb
