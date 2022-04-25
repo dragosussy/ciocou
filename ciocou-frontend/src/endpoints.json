@@ -1,0 +1,5 @@
+{
+    "generateLink": "https://ciocou.azurewebsites.net/api/ciocc/generate/",
+    "updateLink": "https://ciocou.azurewebsites.net/api/ciocc/cioccneste/",
+    "getLink": "https://ciocou.azurewebsites.net/api/ciocc/get-link/"
+}
