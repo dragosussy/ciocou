@@ -1,5 +1,4 @@
-﻿using ciocou_backend.DTOs;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Service;
 
 namespace ciocou_backend.Controllers
@@ -15,8 +14,8 @@ namespace ciocou_backend.Controllers
             _easterService = easterService;
         }
 
-        [HttpPost("link")]
-        public async Task<IActionResult> GenerateCioccLink(string user1Name)
+        [HttpPost("event")]
+        public async Task<IActionResult> GenerateCioccEvent(string user1Name)
         {
             ////var link = Link.GenerateLink(user1Name, DateTime.Now.AddMonths(1));
             ////var c = CioccEvent.builder().Winner(link).Build();

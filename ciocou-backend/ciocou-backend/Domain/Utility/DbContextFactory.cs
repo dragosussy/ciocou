@@ -16,13 +16,8 @@ namespace Data.Utility
 
         public CiocouPostgresDbContext CreateDbContext(string[] args)
         {
-            var configuration = new ConfigurationBuilder()
-                .SetBasePath(Directory.GetCurrentDirectory())
-                .AddJsonFile("appSettings.json")
-                .Build();
-
             var builder = new DbContextOptionsBuilder<CiocouPostgresDbContext>();
-            var connectionString = configuration.GetConnectionString("DefaultConnection");
+            var connectionString = ConfigurationUtils.GetDataLayerConfiguration().GetConnectionString("DefaultConnection");
 
             builder.UseNpgsql(connectionString);
 

@@ -17,6 +17,7 @@ namespace Data
         public async Task<CioccEvent> AddAsync(CioccEvent cioccEvent)
         {
             await _repository.AddAsync(cioccEvent);
+            await _repository.SaveChangesAsync();
             return cioccEvent;
         }
 
