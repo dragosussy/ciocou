@@ -1,9 +1,9 @@
 ﻿namespace ciocou_backend.DTOs
 {
-    public class UpdateCioccLinkDto
+    public class UpdateCioccEventDto
     {
         public string Guid { get; set; }
-        public string User2Name { get; set; }
+        public string UserName2 { get; set; }
         public string Winner { get; set; }
     }
 }

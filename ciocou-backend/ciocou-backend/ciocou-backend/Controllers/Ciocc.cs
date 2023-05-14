@@ -1,8 +1,6 @@
-﻿using ciocou_backend.DbContext;
-using ciocou_backend.DTOs;
-using Domain;
+﻿using ciocou_backend.DTOs;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
+using Service;
 
 namespace ciocou_backend.Controllers
 {
@@ -10,59 +8,60 @@ namespace ciocou_backend.Controllers
     [ApiController]
     public class Ciocc : ControllerBase
     {
-        private readonly IConfiguration _configuration;
-        private readonly Repository _repository;
+        private readonly EasterService _easterService;
 
-        public Ciocc(Repository repository, IConfiguration configuration)
+        public Ciocc(EasterService easterService)
         {
-            _repository = repository;
-            _configuration = configuration;
+            _easterService = easterService;
         }
 
-        [HttpGet("generate")]
+        [HttpPost("link")]
         public async Task<IActionResult> GenerateCioccLink(string user1Name)
         {
-            var link = Link.GenerateLink(user1Name, DateTime.Now.AddMonths(1));
+            ////var link = Link.GenerateLink(user1Name, DateTime.Now.AddMonths(1));
+            ////var c = CioccEvent.builder().Winner(link).Build();
+            ////try
+            ////{
+            ////    await _repository.Links.AddAsync(link);
+            ////    await _repository.SaveChangesAsync();
+            ////}
+            ////catch (Exception)
+            ////{
+            ////    return Problem("database communication problem.");
+            ////}
 
-            try
-            {
-                await _repository.Links.AddAsync(link);
-                await _repository.SaveChangesAsync();
-            }
-            catch (Exception)
-            {
-                return Problem("database communication problem.");
-            }
-
-            return Ok(link.ToUrlFormat(_configuration.GetValue<string>("DomainUrl")));
+            ////return Ok(link.ToUrlFormat(_configuration.GetValue<string>("DomainUrl")));\
+            var ciocc = CioccEvent.builder().UserName1("haha").Build();
+            var res = await _easterService.SaveAsync(ciocc);
+            return Ok(res.UserName1);
         }
 
 
-        [HttpPost("cioccneste")]
-        public async Task<IActionResult> UpdateCioccLink([FromBody] UpdateCioccLinkDto updateLinkDto)
-        {
-            var link = _repository.Links.FirstOrDefault(l => l.Guid == updateLinkDto.Guid);
-            if (link == null)
-                return BadRequest("invalid link.");
+        //[HttpPatch]
+        //public async Task<IActionResult> UpdateCioccLink([FromBody] UpdateCioccEventDto updateLinkDto)
+        //{
+        //    var link = _repository.Links.FirstOrDefault(l => l.Guid == updateLinkDto.Guid);
+        //    if (link == null)
+        //        return BadRequest("invalid link.");
 
-            try
-            {
-                link.UpdateLink(updateLinkDto.User2Name, updateLinkDto.Winner);
-                _repository.Links.Update(link);
-                await _repository.SaveChangesAsync();
-            }
-            catch (Exception)
-            {
-                return Problem("database communication problem.");
-            }
+        //    try
+        //    {
+        //        link.UpdateLink(updateLinkDto.User2Name, updateLinkDto.Winner);
+        //        _repository.Links.Update(link);
+        //        await _repository.SaveChangesAsync();
+        //    }
+        //    catch (Exception)
+        //    {
+        //        return Problem("database communication problem.");
+        //    }
 
-            return Ok(link);
-        }
+        //    return Ok(link);
+        //}
 
-        [HttpGet("get-link")]
-        public async Task<IActionResult> GetCioccLink(string guid)
-        {
-            return Ok(await _repository.Links.FirstOrDefaultAsync(l => l.Guid == guid));
-        }
+        //[HttpGet("link")]
+        //public async Task<IActionResult> GetCioccLink(string guid)
+        //{
+        //    return Ok(await _repository.Links.FirstOrDefaultAsync(l => l.Guid == guid));
+        //}
     }
 }

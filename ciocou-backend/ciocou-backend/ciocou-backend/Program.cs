@@ -1,5 +1,5 @@
-using ciocou_backend.DbContext;
-using Microsoft.EntityFrameworkCore;
+using DependencyInversion;
+using Service;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,8 +10,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddDbContext<Repository>(options =>
-    options.UseSqlServer(builder.Configuration.GetSection("ConnectionString").Value));
+builder.Services.AddDataLayer();
 
 var app = builder.Build();
 

@@ -1,0 +1,17 @@
+﻿version: '3.8'
+services:
+  db:
+    image: postgres:alpine3.18
+    container_name: postgres_db
+    restart: always
+    environment:
+      # set this with docker compose --env-file
+      - POSTGRES_USER=${DB_USER}
+      - POSTGRES_PASSWORD=${DB_PASSWORD}
+    ports:
+      - '5432:5432'
+    volumes:
+      - postgres_db:/var/lib/postgresql/data
+volumes:
+  postgres_db:
+    driver: local
