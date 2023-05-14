@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ZTqQbZRwrXtbC2Kz8Opo9NvPKBA5ATdroOoEqOg4yw51GPMJ3ucQY1CRhKMa8nOeFfoQ/9C3fNPWGsjisTIKaA==",
+  "dgSpecHash": "VQ0fm54KVM61mFUApvKJY7UQIowDmkMgj/e2W6BehEtLnUIrbANJ1CncwiPb3/249QlBR8vHrTetb/1SYBiGhg==",
   "success": true,
   "projectFilePath": "D:\\Informatique\\Abureli by me\\ciocou\\ciocou-backend\\ciocou-backend\\ciocou-backend\\ciocou-backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\drago\\.nuget\\packages\\efcore.namingconventions\\6.0.0\\efcore.namingconventions.6.0.0.nupkg.sha512",
+    "C:\\Users\\drago\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\drago\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.4\\microsoft.entityframeworkcore.6.0.4.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.4\\microsoft.entityframeworkcore.abstractions.6.0.4.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.4\\microsoft.entityframeworkcore.analyzers.6.0.4.nupkg.sha512",
@@ -26,6 +28,7 @@
     "C:\\Users\\drago\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\drago\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\npgsql\\6.0.3\\npgsql.6.0.3.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\6.0.3\\npgsql.entityframeworkcore.postgresql.6.0.3.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",

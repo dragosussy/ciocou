@@ -5,11 +5,13 @@ VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ciocou-backend", "ciocou-backend\ciocou-backend.csproj", "{107C5F75-505F-4C3E-A9CD-A4CC4CBE5B29}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data", "Domain\Data.csproj", "{01F71240-B561-4E56-A3C4-0BAC06E6D589}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data", "Data\Data.csproj", "{01F71240-B561-4E56-A3C4-0BAC06E6D589}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Service", "Service\Service.csproj", "{1E7F9046-7BC8-44AA-8FD8-FFEC9B458A7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversion", "DependencyInversion\DependencyInversion.csproj", "{89747259-8F9D-42F0-9C92-EC8094A5044E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInversion", "DependencyInversion\DependencyInversion.csproj", "{89747259-8F9D-42F0-9C92-EC8094A5044E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Middleware", "Middleware\Middleware.csproj", "{5E3F561C-3A9C-407D-9913-A383DE804E9A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{89747259-8F9D-42F0-9C92-EC8094A5044E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89747259-8F9D-42F0-9C92-EC8094A5044E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89747259-8F9D-42F0-9C92-EC8094A5044E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E3F561C-3A9C-407D-9913-A383DE804E9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E3F561C-3A9C-407D-9913-A383DE804E9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E3F561C-3A9C-407D-9913-A383DE804E9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E3F561C-3A9C-407D-9913-A383DE804E9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

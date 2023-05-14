@@ -21,7 +21,7 @@ namespace Service
             IsDone = false;
         }
 
-        public CioccEvent MarkComplete(string user2Name, string winner)
+        public CioccEvent Complete(string user2Name, string winner)
         {
             this.UserName2 = user2Name;
             this.Winner = winner;
