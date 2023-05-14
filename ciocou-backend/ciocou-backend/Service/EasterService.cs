@@ -14,14 +14,14 @@ namespace Service
             _cioccEventRepository = cioccEventRepository;
         }
 
-        public async Task<CioccEvent> SaveAsync(CreateCioccEventDto createCioccEventDto)
+        public async Task<ReadCioccEventDto> SaveAsync(CreateCioccEventDto createCioccEventDto)
         {
-            return await _cioccEventRepository.AddAsync(
-                CioccEventMapper.fromDto(createCioccEventDto)
+            return CioccEventMapper.toDto(await _cioccEventRepository.AddAsync(
+                CioccEventMapper.fromDto(createCioccEventDto))
             );
         }
 
-        public async Task<CioccEvent> UpdateAsync(UpdateCioccEventDto updateCioccEventDto)
+        public async Task<ReadCioccEventDto> UpdateAsync(UpdateCioccEventDto updateCioccEventDto)
         {
             var existing = await _cioccEventRepository.GetByGuidAsync(updateCioccEventDto.Guid);
 
@@ -29,12 +29,16 @@ namespace Service
 
             var updated = existing.Complete(updateCioccEventDto.UserName2, winner);
 
-            return await _cioccEventRepository.UpdateAsync(updated);
+            return CioccEventMapper.toDto(
+                await _cioccEventRepository.UpdateAsync(updated)
+            );
         }
 
-        public async Task<CioccEvent> GetCioccEvent(string guid)
+        public async Task<ReadCioccEventDto> GetCioccEvent(string guid)
         {
-            return await _cioccEventRepository.GetByGuidAsync(guid);
+            return CioccEventMapper.toDto(
+                await _cioccEventRepository.GetByGuidAsync(guid)
+            );
         }
 
         private string GetRandomWinner(string userName1, string userName2)

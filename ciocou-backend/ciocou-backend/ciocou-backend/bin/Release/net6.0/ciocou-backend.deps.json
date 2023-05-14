@@ -293,7 +293,8 @@
         "dependencies": {
           "Data": "1.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
-          "Middleware": "1.0.0"
+          "Middleware": "1.0.0",
+          "Service": "1.0.0"
         },
         "runtime": {
           "DependencyInversion.dll": {}
