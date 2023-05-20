@@ -1,63 +1,110 @@
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\appsettings.Development.json
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\appsettings.json
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\ciocou-backend.exe
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\ciocou-backend.deps.json
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\ciocou-backend.runtimeconfig.json
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\ciocou-backend.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\ref\ciocou-backend.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\ciocou-backend.pdb
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\Humanizer.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\System.Drawing.Common.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\System.Runtime.Caching.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\System.Security.Permissions.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\System.Windows.Extensions.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\Domain.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\bin\Debug\net6.0\Domain.pdb
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\obj\Debug\net6.0\ciocou-backend.csproj.AssemblyReference.cache
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\obj\Debug\net6.0\ciocou-backend.GeneratedMSBuildEditorConfig.editorconfig
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\obj\Debug\net6.0\ciocou-backend.AssemblyInfoInputs.cache
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\obj\Debug\net6.0\ciocou-backend.AssemblyInfo.cs
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\obj\Debug\net6.0\ciocou-backend.csproj.CoreCompileInputs.cache
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\obj\Debug\net6.0\ciocou-backend.MvcApplicationPartsAssemblyInfo.cs
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\obj\Debug\net6.0\ciocou-backend.MvcApplicationPartsAssemblyInfo.cache
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\obj\Debug\net6.0\staticwebassets.build.json
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\obj\Debug\net6.0\staticwebassets.development.json
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\obj\Debug\net6.0\scopedcss\bundle\ciocou-backend.styles.css
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\obj\Debug\net6.0\ciocou-backend.csproj.CopyComplete
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\obj\Debug\net6.0\ciocou-backend.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\obj\Debug\net6.0\ref\ciocou-backend.dll
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\obj\Debug\net6.0\ciocou-backend.pdb
-E:\Shit I might eventually use\ciocou\ciocou-backend\ciocou-backend\ciocou-backend\obj\Debug\net6.0\ciocou-backend.genruntimeconfig.cache
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/appsettings.Development.json
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/appsettings.json
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/ciocou-backend.exe
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/ciocou-backend.deps.json
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/ciocou-backend.runtimeconfig.json
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/ciocou-backend.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/ref/ciocou-backend.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/ciocou-backend.pdb
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Humanizer.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Microsoft.OpenApi.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/System.Drawing.Common.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/System.Runtime.Caching.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/System.Security.Permissions.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/System.Windows.Extensions.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Domain.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Domain.pdb
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/Debug/net6.0/ciocou-backend.csproj.AssemblyReference.cache
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/Debug/net6.0/ciocou-backend.GeneratedMSBuildEditorConfig.editorconfig
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/Debug/net6.0/ciocou-backend.AssemblyInfoInputs.cache
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/Debug/net6.0/ciocou-backend.AssemblyInfo.cs
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/Debug/net6.0/ciocou-backend.csproj.CoreCompileInputs.cache
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/Debug/net6.0/ciocou-backend.MvcApplicationPartsAssemblyInfo.cs
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/Debug/net6.0/ciocou-backend.MvcApplicationPartsAssemblyInfo.cache
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/Debug/net6.0/staticwebassets.build.json
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/Debug/net6.0/staticwebassets.development.json
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/Debug/net6.0/scopedcss/bundle/ciocou-backend.styles.css
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/Debug/net6.0/ciocou-backend.csproj.CopyComplete
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/Debug/net6.0/ciocou-backend.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/Debug/net6.0/ref/ciocou-backend.dll
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/Debug/net6.0/ciocou-backend.pdb
+E:/Shit I might eventually use/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/Debug/net6.0/ciocou-backend.genruntimeconfig.cache
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/ciocou-backend
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/ciocou-backend.deps.json
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/ciocou-backend.runtimeconfig.json
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/ciocou-backend.dll
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/ciocou-backend.pdb
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/EFCore.NamingConventions.dll
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Microsoft.Extensions.Configuration.dll
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Npgsql.dll
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Data.dll
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/DependencyInversion.dll
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Middleware.dll
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Service.dll
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/DependencyInversion.pdb
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Service.pdb
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Data.pdb
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/bin/Debug/net6.0/Middleware.pdb
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/Debug/net6.0/ciocou-backend.csproj.AssemblyReference.cache
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/Debug/net6.0/ciocou-backend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/Debug/net6.0/ciocou-backend.AssemblyInfoInputs.cache
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/Debug/net6.0/ciocou-backend.AssemblyInfo.cs
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/Debug/net6.0/ciocou-backend.csproj.CoreCompileInputs.cache
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/Debug/net6.0/ciocou-backend.MvcApplicationPartsAssemblyInfo.cs
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/Debug/net6.0/ciocou-backend.MvcApplicationPartsAssemblyInfo.cache
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/Debug/net6.0/staticwebassets/msbuild.ciocou-backend.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/Debug/net6.0/staticwebassets/msbuild.build.ciocou-backend.props
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.ciocou-backend.props
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.ciocou-backend.props
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/Debug/net6.0/staticwebassets.build.json
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/Debug/net6.0/staticwebassets.development.json
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/Debug/net6.0/scopedcss/bundle/ciocou-backend.styles.css
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/Debug/net6.0/ciocou-backend.csproj.CopyComplete
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/Debug/net6.0/ciocou-backend.dll
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/Debug/net6.0/refint/ciocou-backend.dll
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/Debug/net6.0/ciocou-backend.pdb
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/Debug/net6.0/ciocou-backend.genruntimeconfig.cache
+/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/Debug/net6.0/ref/ciocou-backend.dll

@@ -1,38 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Informatique\\Abureli by me\\ciocou\\ciocou-backend\\ciocou-backend\\ciocou-backend\\ciocou-backend.csproj": {}
+    "/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/ciocou-backend.csproj": {}
   },
   "projects": {
-    "D:\\Informatique\\Abureli by me\\ciocou\\ciocou-backend\\ciocou-backend\\ciocou-backend\\ciocou-backend.csproj": {
+    "/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/ciocou-backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Informatique\\Abureli by me\\ciocou\\ciocou-backend\\ciocou-backend\\ciocou-backend\\ciocou-backend.csproj",
+        "projectUniqueName": "/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/ciocou-backend.csproj",
         "projectName": "ciocou-backend",
-        "projectPath": "D:\\Informatique\\Abureli by me\\ciocou\\ciocou-backend\\ciocou-backend\\ciocou-backend\\ciocou-backend.csproj",
-        "packagesPath": "C:\\Users\\drago\\.nuget\\packages\\",
-        "outputPath": "D:\\Informatique\\Abureli by me\\ciocou\\ciocou-backend\\ciocou-backend\\ciocou-backend\\obj\\",
+        "projectPath": "/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/ciocou-backend.csproj",
+        "packagesPath": "/Users/dragoscirtorosan/.nuget/packages/",
+        "outputPath": "/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/ciocou-backend/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\drago\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/dragoscirtorosan/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/sdk/7.0.302/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Informatique\\Abureli by me\\ciocou\\ciocou-backend\\ciocou-backend\\DependencyInversion\\DependencyInversion.csproj": {
-                "projectPath": "D:\\Informatique\\Abureli by me\\ciocou\\ciocou-backend\\ciocou-backend\\DependencyInversion\\DependencyInversion.csproj"
+              "/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/DependencyInversion/DependencyInversion.csproj": {
+                "projectPath": "/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/DependencyInversion/DependencyInversion.csproj"
               },
-              "D:\\Informatique\\Abureli by me\\ciocou\\ciocou-backend\\ciocou-backend\\Service\\Service.csproj": {
-                "projectPath": "D:\\Informatique\\Abureli by me\\ciocou\\ciocou-backend\\ciocou-backend\\Service\\Service.csproj"
+              "/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/Service/Service.csproj": {
+                "projectPath": "/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/Service/Service.csproj"
               }
             }
           }
@@ -71,36 +70,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Informatique\\Abureli by me\\ciocou\\ciocou-backend\\ciocou-backend\\Data\\Data.csproj": {
+    "/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/Data/Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Informatique\\Abureli by me\\ciocou\\ciocou-backend\\ciocou-backend\\Data\\Data.csproj",
+        "projectUniqueName": "/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/Data/Data.csproj",
         "projectName": "Data",
-        "projectPath": "D:\\Informatique\\Abureli by me\\ciocou\\ciocou-backend\\ciocou-backend\\Data\\Data.csproj",
-        "packagesPath": "C:\\Users\\drago\\.nuget\\packages\\",
-        "outputPath": "D:\\Informatique\\Abureli by me\\ciocou\\ciocou-backend\\ciocou-backend\\Data\\obj\\",
+        "projectPath": "/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/Data/Data.csproj",
+        "packagesPath": "/Users/dragoscirtorosan/.nuget/packages/",
+        "outputPath": "/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/Data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\drago\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/dragoscirtorosan/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Informatique\\Abureli by me\\ciocou\\ciocou-backend\\ciocou-backend\\Service\\Service.csproj": {
-                "projectPath": "D:\\Informatique\\Abureli by me\\ciocou\\ciocou-backend\\ciocou-backend\\Service\\Service.csproj"
+              "/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/Service/Service.csproj": {
+                "projectPath": "/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/Service/Service.csproj"
               }
             }
           }
@@ -158,42 +155,40 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Informatique\\Abureli by me\\ciocou\\ciocou-backend\\ciocou-backend\\DependencyInversion\\DependencyInversion.csproj": {
+    "/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/DependencyInversion/DependencyInversion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Informatique\\Abureli by me\\ciocou\\ciocou-backend\\ciocou-backend\\DependencyInversion\\DependencyInversion.csproj",
+        "projectUniqueName": "/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/DependencyInversion/DependencyInversion.csproj",
         "projectName": "DependencyInversion",
-        "projectPath": "D:\\Informatique\\Abureli by me\\ciocou\\ciocou-backend\\ciocou-backend\\DependencyInversion\\DependencyInversion.csproj",
-        "packagesPath": "C:\\Users\\drago\\.nuget\\packages\\",
-        "outputPath": "D:\\Informatique\\Abureli by me\\ciocou\\ciocou-backend\\ciocou-backend\\DependencyInversion\\obj\\",
+        "projectPath": "/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/DependencyInversion/DependencyInversion.csproj",
+        "packagesPath": "/Users/dragoscirtorosan/.nuget/packages/",
+        "outputPath": "/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/DependencyInversion/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\drago\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/dragoscirtorosan/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Informatique\\Abureli by me\\ciocou\\ciocou-backend\\ciocou-backend\\Data\\Data.csproj": {
-                "projectPath": "D:\\Informatique\\Abureli by me\\ciocou\\ciocou-backend\\ciocou-backend\\Data\\Data.csproj"
+              "/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/Data/Data.csproj": {
+                "projectPath": "/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/Data/Data.csproj"
               },
-              "D:\\Informatique\\Abureli by me\\ciocou\\ciocou-backend\\ciocou-backend\\Middleware\\Middleware.csproj": {
-                "projectPath": "D:\\Informatique\\Abureli by me\\ciocou\\ciocou-backend\\ciocou-backend\\Middleware\\Middleware.csproj"
+              "/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/Middleware/Middleware.csproj": {
+                "projectPath": "/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/Middleware/Middleware.csproj"
               },
-              "D:\\Informatique\\Abureli by me\\ciocou\\ciocou-backend\\ciocou-backend\\Service\\Service.csproj": {
-                "projectPath": "D:\\Informatique\\Abureli by me\\ciocou\\ciocou-backend\\ciocou-backend\\Service\\Service.csproj"
+              "/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/Service/Service.csproj": {
+                "projectPath": "/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/Service/Service.csproj"
               }
             }
           }
@@ -229,28 +224,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Informatique\\Abureli by me\\ciocou\\ciocou-backend\\ciocou-backend\\Middleware\\Middleware.csproj": {
+    "/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/Middleware/Middleware.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Informatique\\Abureli by me\\ciocou\\ciocou-backend\\ciocou-backend\\Middleware\\Middleware.csproj",
+        "projectUniqueName": "/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/Middleware/Middleware.csproj",
         "projectName": "Middleware",
-        "projectPath": "D:\\Informatique\\Abureli by me\\ciocou\\ciocou-backend\\ciocou-backend\\Middleware\\Middleware.csproj",
-        "packagesPath": "C:\\Users\\drago\\.nuget\\packages\\",
-        "outputPath": "D:\\Informatique\\Abureli by me\\ciocou\\ciocou-backend\\ciocou-backend\\Middleware\\obj\\",
+        "projectPath": "/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/Middleware/Middleware.csproj",
+        "packagesPath": "/Users/dragoscirtorosan/.nuget/packages/",
+        "outputPath": "/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/Middleware/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\drago\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/dragoscirtorosan/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -294,28 +287,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Informatique\\Abureli by me\\ciocou\\ciocou-backend\\ciocou-backend\\Service\\Service.csproj": {
+    "/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/Service/Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Informatique\\Abureli by me\\ciocou\\ciocou-backend\\ciocou-backend\\Service\\Service.csproj",
+        "projectUniqueName": "/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/Service/Service.csproj",
         "projectName": "Service",
-        "projectPath": "D:\\Informatique\\Abureli by me\\ciocou\\ciocou-backend\\ciocou-backend\\Service\\Service.csproj",
-        "packagesPath": "C:\\Users\\drago\\.nuget\\packages\\",
-        "outputPath": "D:\\Informatique\\Abureli by me\\ciocou\\ciocou-backend\\ciocou-backend\\Service\\obj\\",
+        "projectPath": "/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/Service/Service.csproj",
+        "packagesPath": "/Users/dragoscirtorosan/.nuget/packages/",
+        "outputPath": "/Users/dragoscirtorosan/ByMe/ciocou/ciocou-backend/ciocou-backend/Service/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\drago\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/dragoscirtorosan/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -349,7 +340,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -2,7 +2,7 @@
 services:
   db:
     image: postgres:alpine3.18
-    container_name: postgres_db
+    container_name: postgres_ciocou
     restart: always
     environment:
       # set this with docker compose --env-file
@@ -11,7 +11,7 @@ services:
     ports:
       - '5432:5432'
     volumes:
-      - postgres_db:/var/lib/postgresql/data
+      - postgres_ciocou:/var/lib/postgresql/data
 volumes:
-  postgres_db:
+  postgres_ciocou:
     driver: local
