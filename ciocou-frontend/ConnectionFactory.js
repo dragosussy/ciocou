@@ -4,7 +4,9 @@ export default class ConnectionFactory {
         "prod": "......"
     }
 
+    static environment = process.env.ENVIRONMENT
+
     static getCioccEventEndpointUrl() {
-        return ConnectionFactory.environmentMapper["local"] + "/api/ciocc/event"
+        return ConnectionFactory.environmentMapper[ConnectionFactory.environment] + "/api/ciocc/event"
     }
 }
